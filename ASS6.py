@@ -1,4 +1,4 @@
-# QUESTION:Write a program to accept percentage from the user and display the grade according to
+# QUESTION6:Write a program to accept percentage from the user and display the grade according to
 # the following criteria:
 # Marks Grade
 # > 90 A

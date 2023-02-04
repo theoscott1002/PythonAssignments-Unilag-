@@ -1,4 +1,4 @@
-# QUESTION:Write a Python program to find the sum of two given integers. However, if the sum is
+# QUESTION3:Write a Python program to find the sum of two given integers. However, if the sum is
 # between 15 and 20 it will return 20
 
 # Getting first number from user
